@@ -1,0 +1,3 @@
+Initializing a repository creates a repo for all project files to go in one place.  It's easy to navigate one project in a repo compared to scattered files.
+
+The staging area lets you seperate commits into logical changes. It's different from the working dir/repo as it is an intermediary area for files being committed.
