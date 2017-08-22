@@ -1,0 +1,21 @@
+Viewing a diff between two versions of a file helps ID a bug since lines with differences are shown.
+The commands for the CMD line are intuitive and easy to use.
+Differences will be able to identify between two files using diff or fc.
+
+Having easy access to a file's entire history can make you a better programmer in the long term
+by letting the programmer use old versions of projects or reflect on components they've added.
+
+Pros to manually committing are logical seperation of project versions and ability to comment on your changes.
+Cons could be forgetting to commit or committing being burdensome during work.
+
+I think some VCS allow saving multiple files in one commit to make maintaining project versions simpler.
+Other VCS like Google Docs are geared toward single file management or collaboration in the cloud. 
+
+Git log shows commits and comments along with author, date and commit ID. 
+Git diff ID1 ID2 will show the changes between the saves, giving you a history of the project.
+
+Using a VCS can make you confident making risky changes by letting you revert to a previous, working verison
+if the current version gets messed up.  It's like "save game" in a video game before going into a boss fight.
+
+With my workspace set up, I'd like to develop a project with multiple files as opposed to small projects
+I normally work on.
