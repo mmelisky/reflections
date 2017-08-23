@@ -1,1 +1,3 @@
 I'd use a remote repository when collaborating with a team rather than keeping it local.  Also when I want it to be viewed publicly or revisions submitted.
+
+Manually pulling changes helps you fully understand exactly what files are on your machine and what files aren't.
